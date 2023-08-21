@@ -1,6 +1,21 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXTINF:-1, Aaj Tak HD
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+
+#EXTINF:-1, TimesNow Navbharat
+http://pi.piyushgarg.in:8080/remote?channel=timesnownavbharatzee5
+
+#EXTINF:-1, TimesNow Navbharat Direct
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
+
+#EXTINF:-1, R. Bharat
+https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_5.m3u8
+
+#EXTINF:-1, Republic
+https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_5.m3u8
+
 #EXTINF:-1, Zee
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
@@ -10,21 +25,14 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 #EXTINF:-1, ABP
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
-#EXTINF:-1, R. Bharat
-https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_5.m3u8
-
-#EXTINF:-1, Republic
-https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_5.m3u8
-
 #EXTINF:-1, Aaj Tak
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 
-#EXTINF:-1, Aaj Tak HD
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1, News24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
-#EXTINF:-1, NewsNation
-#https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_480p/index.m3u8
-https://stream-05.sg1.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZTO9KbhA-2ASuXgt4b6K2dU)/dm/3/x7t0g3i/s/live-3.m3u8
+#EXTINF:-1, News18 India
+http://pi.piyushgarg.in:8080/remote?channel=news18india
 
 #EXTINF:-1, TV9 Bharatvarsh
 http://pi.piyushgarg.in:8080/remote?channel=tv9bharatvarshzee5
@@ -38,8 +46,14 @@ http://pi.piyushgarg.in:8080/remote?channel=cnn-news18
 #EXTINF:-1, Times Now
 https://d1irnksb81zh0b.cloudfront.net/master.m3u8
 
-#EXTINF:-1, ET Now
+#EXTINF:-1, Mirro
 https://d179muqh6u5263.cloudfront.net/master.m3u8
 
 #EXTINF:-1, WION
 http://pi.piyushgarg.in:8080/remote?channel=wion
+
+#EXTINF:-1, ZEE Business
+http://pi.piyushgarg.in:8080/remote?channel=zeebiz
+
+#EXTINF:-1, CNBC Awaaz
+http://pi.piyushgarg.in:8080/remote?channel=cnbcawaaz
