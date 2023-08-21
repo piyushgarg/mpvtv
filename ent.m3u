@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1,  DD National
+https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-250&oauth=c3Q9MTYwNzc2NDcyNX5leHA9MTYwNzc2NTcyNX5hY2w9LypobWFjPTNjNTc0NzdiMmFhODRjYzFiYTk4OTU1NWZmMjdmNjE5NmNkNTgxMTcyMzI2ZmRlMmY5N2VjN2FmMTdmNzkzNmE=
+#http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/45ixuvM.jpg",DD National
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+
+#EXTINF:-1, SAB TV FULL HD Liv
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8?HjFreeTV=SABHD
+
+#EXTINF:-1, SET HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET
+
+#EXTINF:-1, SET HD
+https://bit.ly/3fKTNU8seTHd
+
+#EXTINF:-1, SONY PAL Liv
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8?HjFreeTV=PAL
+
+#EXTINF:-1,SONY PAL
+https://bit.ly/30a3wsONyPal
