@@ -41,7 +41,7 @@ http://pi.piyushgarg.in:8080/remote?channel=cnn-news18
 https://d1irnksb81zh0b.cloudfront.net/master.m3u8
 
 #EXTINF:-1, Mirror Now
-#https://commons.wikimedia.org/wiki/File:MirrorNowLogo.jpg
+https://d179muqh6u5263.cloudfront.net/master.m3u8
 
 #EXTINF:-1, WION
 http://pi.piyushgarg.in:8080/remote?channel=wion
