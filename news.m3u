@@ -34,14 +34,14 @@ http://pi.piyushgarg.in:8080/remote?channel=tv9bharatvarshzee5
 #EXTINF:-1, NewsX
 https://livetv.newsx.com/itv/itvnetwork4/playlist.m3u8
 
-#EXTINF:-1, CNN News-18
-http://pi.piyushgarg.in:8080/remote?channel=cnn-news18
-
 #EXTINF:-1, Times Now
 https://d1irnksb81zh0b.cloudfront.net/master.m3u8
 
 #EXTINF:-1, Mirror Now
 https://d179muqh6u5263.cloudfront.net/master.m3u8
+
+#EXTINF:-1, CNN News-18
+http://pi.piyushgarg.in:8080/remote?channel=cnn-news18
 
 #EXTINF:-1, WION
 http://pi.piyushgarg.in:8080/remote?channel=wion
