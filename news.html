@@ -5,7 +5,6 @@
     <title>News</title>
     <style>
         table, th, td {
-            border: 2px solid black;
             border-collapse: collapse;
         }
 
@@ -17,7 +16,14 @@
         }
 
         img {
-            width: 100px;
+            width: 50%;
+            border: 1px solid red;
+            transition:transform 1s ease;
+        }
+
+        img:hover {
+            -webkit-transform:scale(2);
+            transform:scale(2);
         }
 
         /*noinspection CssUnusedSymbol*/
@@ -39,9 +45,6 @@
 <h1>News</h1>
 
 <table style="width:100%">
-    <tr>
-        <th>Android link</th>
-    </tr>
     <tr>
         <td>
             <a href="intent://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8#Intent;type=video/any;package=is.xyz.mpv;scheme=https;end;"
