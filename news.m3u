@@ -23,7 +23,8 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
 #EXTINF:-1, News24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+#https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="News18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" tvg-id="News18India.in" group-title="India",News18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=1680400.m3u8
