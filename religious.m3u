@@ -1,44 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1, Sadhna
-https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
-
 #EXTINF:-1, Sanskar
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index_15.m3u8
+#https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 #EXTINF:-1, Sanskar USA
-https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index_11.m3u8
 
 #EXTINF:-1, Sanskar UK
-https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
+https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index_11.m3u8
 
 #EXTINF:-1, Satsang
-https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index_10.m3u8
+
+#EXTINF:-1, Sanskar Digital
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index_7.m3u8
+
+#EXTINF:-1, Satsang Digital
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index_9.m3u8
+
+#EXTINF:-1, Shubh
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index_13.m3u8
 
 #EXTINF:-1, Aastha
-http://pi.piyushgarg.in:8080/remote?channel=aastha-tv
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1928000.m3u8
+#http://pi.piyushgarg.in:8080/remote?channel=aastha-tv
 
 #EXTINF:-1, Aastha Bhajan
-http://pi.piyushgarg.in:8080/remote?channel=aastha-bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b1928000.m3u8
+#http://pi.piyushgarg.in:8080/remote?channel=aastha-bhajan
 
 #EXTINF:-1, Aastha UK
-http://pi.piyushgarg.in:8080/remote?channel=aastha-uk
+https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/chunklist_b1928000.m3u8
+#http://pi.piyushgarg.in:8080/remote?channel=aastha-uk
 
 #EXTINF:-1, Aastha USA
-http://pi.piyushgarg.in:8080/remote?channel=aastha-usa
+https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/chunklist_b1928000.m3u8
+#http://pi.piyushgarg.in:8080/remote?channel=aastha-usa
 
 #EXTINF:-1, Vedic
-http://pi.piyushgarg.in:8080/remote?channel=vedic
-
-#EXTINF:-1, Disha TV
-https://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/chunklist_b1928000.m3u8
+#http://pi.piyushgarg.in:8080/remote?channel=vedic
 
 #EXTINF:-1, Hare Krsna TV
 http://pi.piyushgarg.in:8080/remote?channel=hare krsna tv&source=youtube
-
-#EXTINF:-1, Shubh
-https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
-
-#EXTINF:-1, Shubh Cinema
-https://shubhcinema.sanskargroup.in/shubhcinemalive.m3u8
