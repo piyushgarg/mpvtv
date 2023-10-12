@@ -2,7 +2,8 @@
 #EXT-X-VERSION:3
 
 #EXTINF:-1, Aaj Tak HD
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+#https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="TimesNow NB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png" tvg-id="TimesNavbharat.in" group-title="India",Navbharat
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
