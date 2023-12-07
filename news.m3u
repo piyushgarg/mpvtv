@@ -5,39 +5,39 @@
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 #https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-name="TimesNow NB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png" tvg-id="TimesNavbharat.in" Navbharat
+#EXTINF:-1 tvg-name="TimesNow NB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png" tvg-id="TimesNavbharat.in", Navbharat
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-name="R. Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/320px-Republic_Bharat_logo.svg.png" tvg-id="RBharat.in" R Bharat
+#EXTINF:-1 tvg-name="R. Bharat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/320px-Republic_Bharat_logo.svg.png" tvg-id="RBharat.in", R Bharat
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_5.m3u8
 
-#EXTINF:-1 tvg-name="Republic" tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:h-28/1614674195603df91369448.png" tvg-id="Republic.in" Republic
+#EXTINF:-1 tvg-name="Republic" tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:h-28/1614674195603df91369448.png" tvg-id="Republic.in", Republic
 https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_5.m3u8
 
 #EXTINF:-1, Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-name="Lok Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lok_Sabha.svg/261px-Lok_Sabha.svg.png" tvg-id="sansadtv.nic.in" Lok Sabha
+#EXTINF:-1 tvg-name="Lok Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lok_Sabha.svg/261px-Lok_Sabha.svg.png" tvg-id="sansadtv.nic.in", Lok Sabha
 https://hls.media.nic.in/live/lstv/index.m3u8
 
-#EXTINF:-1 tvg-name="Rajya Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rajyasabha.svg/302px-Rajyasabha.svg.png" tvg-id="sansadtv.nic.in" Rajya Sabha
+#EXTINF:-1 tvg-name="Rajya Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rajyasabha.svg/302px-Rajyasabha.svg.png" tvg-id="sansadtv.nic.in", Rajya Sabha
 https://hls.media.nic.in/live/rstv/index.m3u8
 
 #EXTINF:-1, India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 
-#EXTINF:-1 tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/131px-ABP_News_logo.svg.png" tvg-id="ABPNews.in" ABP News
+#EXTINF:-1 tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/131px-ABP_News_logo.svg.png" tvg-id="ABPNews.in", ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 
 #EXTINF:-1, News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="News18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" tvg-id="News18India.in" News18 India
+#EXTINF:-1 tvg-name="News18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" tvg-id="News18India.in", News18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2702400.m3u8
 #http://pi.piyushgarg.in:8080/remote?channel=news18india
 
-#EXTINF:-1 tvg-name="TV9 Bharatvarsh" tvg-logo="https://play-lh.googleusercontent.com/zWyOgbYz5bijD1KbpqpkjzudPU42sTPH2mioC7q8WXeUIeMqYmSBRhbGFRmWVYY7ckZ3=w240-h480" tvg-id="TV9Hindi.in" TV9 Bharatvarsh
+#EXTINF:-1 tvg-name="TV9 Bharatvarsh" tvg-logo="https://play-lh.googleusercontent.com/zWyOgbYz5bijD1KbpqpkjzudPU42sTPH2mioC7q8WXeUIeMqYmSBRhbGFRmWVYY7ckZ3=w240-h480" tvg-id="TV9Hindi.in", TV9 Bharatvarsh
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 #http://pi.piyushgarg.in:8080/remote?channel=tv9bharatvarshzee5
 
