@@ -13,7 +13,7 @@ http://pi.piyushgarg.in:8080/remote?channel=republicbharat
 #https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/e8b0ccb9-6f33-45d9-8b11-f41857144ec6/3.m3u8
 
 #EXTINF:-1 tvg-name="Republic" tvg-logo="https://img.republicworld.com/republic-prod/logo/tr:h-28/1614674195603df91369448.png" tvg-id="Republic.in", Republic
-"http://pi.piyushgarg.in:8080/remote?channel=republictv"
+http://pi.piyushgarg.in:8080/remote?channel=republictv
 #https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/fb3cc36d-dada-4a48-bd64-e1f36f987312/3.m3u8
 
 #EXTINF:-1, Zee News
