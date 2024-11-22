@@ -66,6 +66,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #http://pi.piyushgarg.in:8080/remote?channel=zeebiz
 
+#EXTINF:-1, NDTV Profit
+https://dai.google.com/linear/hls/pb/event/QuU6z3GSTDaXuLL9Hs5A5Q/stream/8b2bd25f-d24e-4ea3-a5c5-c45094b91504:TPE2/variant/7a1f7883d0de1847c79a757a7abd6d0d/bandwidth/2628000.m3u8
+
 #EXTINF:-1, CNBC Awaaz
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=3724000.m3u8
 #http://pi.piyushgarg.in:8080/remote?channel=cnbcawaaz
