@@ -67,6 +67,9 @@ https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/Firstpost_NW18_M
 #EXTINF:-1, DW [Deutsche Welle]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1, EuroNews
+http://pi.piyushgarg.in:8080/remote?channel=euronews
+
 #EXTINF:-1, NDTV Profit
 https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
 
