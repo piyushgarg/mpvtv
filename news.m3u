@@ -31,7 +31,8 @@ https://hls.media.nic.in/live/rstv/index.m3u8
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 
 #EXTINF:-1 tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/131px-ABP_News_logo.svg.png" tvg-id="ABPNews.in", ABP News
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
+#https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
 
 #EXTINF:-1, News24
 https://fallbackcdn.vidgyor.com/news24-origin/live_360p_fallback/chunks.m3u8
@@ -46,7 +47,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #http://pi.piyushgarg.in:8080/remote?channel=tv9bharatvarshzee5
 
 #EXTINF:-1, NewsX
-https://livetv.newsx.com/itv/itvnetwork4/playlist.m3u8
+https://indianews.ottlive.co.in/newsx/newsx/index.fmp4.m3u8
+#https://livetv.newsx.com/itv/itvnetwork4/playlist.m3u8
 
 #EXTINF:-1, Times Now
 https://d1irnksb81zh0b.cloudfront.net/master.m3u8
