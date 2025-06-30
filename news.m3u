@@ -21,12 +21,6 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 #EXTINF:-1, Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
-#EXTINF:-1 tvg-name="Lok Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lok_Sabha.svg/261px-Lok_Sabha.svg.png" tvg-id="sansadtv.nic.in", Lok Sabha
-https://hls.media.nic.in/live/lstv/index.m3u8
-
-#EXTINF:-1 tvg-name="Rajya Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rajyasabha.svg/302px-Rajyasabha.svg.png" tvg-id="sansadtv.nic.in", Rajya Sabha
-https://hls.media.nic.in/live/rstv/index.m3u8
-
 #EXTINF:-1, India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 
@@ -100,3 +94,9 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_5.
 
 #EXTINF:-1 tvg-name="TV9 Marathi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/TV9_Marathi.jpg/revision/latest" tvg-id="tv9marathi.com", TV9 MR
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/pub-iotv9marlygv8h/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="Lok Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lok_Sabha.svg/261px-Lok_Sabha.svg.png" tvg-id="sansadtv.nic.in", Lok Sabha
+https://hls.media.nic.in/live/lstv/index.m3u8
+
+#EXTINF:-1 tvg-name="Rajya Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rajyasabha.svg/302px-Rajyasabha.svg.png" tvg-id="sansadtv.nic.in", Rajya Sabha
+https://hls.media.nic.in/live/rstv/index.m3u8
