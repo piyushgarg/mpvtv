@@ -83,17 +83,17 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=3724000.m3u8
 #http://pi.piyushgarg.in:8080/remote?channel=cnbcawaaz
 
-#EXTINF:-1 tvg-name="NDTV24x7" tvg-logo="https://logodix.com/logo/2131942.png" tvg-id="ndtv.com", NDTV
+#EXTINF:-1 tvg-name="NDTV24x7" tvg-logo="https://logodix.com/logo/2131942.png" tvg-id="ndtv.com", NDTV24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_720p@3.m3u8
 
-#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://logodix.com/logo/2131942.png" tvg-id="ndtv.com", NDTV
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/NDTV_India.png/revision/latest" tvg-id="ndtv.com", NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_720p@3.m3u8
 
-#EXTINF:-1 tvg-name="NDTV24x7 US" tvg-logo="https://logodix.com/logo/2131942.png" tvg-id="ndtv.com", NDTV
+#EXTINF:-1 tvg-name="NDTV24x7 US" tvg-logo="https://drop.ndtv.com/images/2024/NDTV-World-OG.png" tvg-id="ndtv.com", NDTV24x7 US
 https://web-ndtv24x7-us.akamaized.net/hls/live/2109282/ndtv24x7us/masterp_720p@3.m3u8
 
-#EXTINF:-1 tvg-name="NDTV24x7 UK" tvg-logo="https://logodix.com/logo/2131942.png" tvg-id="ndtv.com", NDTV
+#EXTINF:-1 tvg-name="NDTV24x7 UK" tvg-logo="https://drop.ndtv.com/images/2024/NDTV-World-OG.png" tvg-id="ndtv.com", NDTV24x7 UK
 https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/masterp_720p@3.m3u8
 
-#EXTINF:-1 tvg-name="NDTV Marathi" tvg-logo="https://logodix.com/logo/2131942.png" tvg-id="ndtv.com", NDTV
+#EXTINF:-1 tvg-name="NDTV Marathi" tvg-logo="https://www.manifest-media.in/cover/prev/uc46r8dskcadge1v9gmd0b04oa-20240502113008.Medi.jpeg" tvg-id="ndtv.com", NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_5.m3u8
