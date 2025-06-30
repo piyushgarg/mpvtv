@@ -82,3 +82,18 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1, CNBC Awaaz
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=3724000.m3u8
 #http://pi.piyushgarg.in:8080/remote?channel=cnbcawaaz
+
+#EXTINF:-1, NDTV24x7 En
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_720p@3.m3u8
+
+#EXTINF:-1, NDTV India Hi
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_720p@3.m3u8
+
+#EXTINF:-1, NDTV24x7 USA En
+https://web-ndtv24x7-us.akamaized.net/hls/live/2109282/ndtv24x7us/masterp_720p@3.m3u8
+
+#EXTINF:-1, NDTV24x7 UK En
+https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/masterp_720p@3.m3u8
+
+#EXTINF:-1, NDTV24x7 Marathi
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_5.m3u8
