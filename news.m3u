@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 
 #EXTINF:-1, Aaj Tak HD
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-#https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="TimesNow NB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Times-now-navbharat.png" tvg-id="TimesNavbharat.in", Navbharat
 https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
@@ -19,18 +19,15 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 #https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/fb3cc36d-dada-4a48-bd64-e1f36f987312/3.m3u8
 
 #EXTINF:-1, Zee News
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 #EXTINF:-1, India TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 
 #EXTINF:-1 tvg-name="ABP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/131px-ABP_News_logo.svg.png" tvg-id="ABPNews.in", ABP News
-https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
+#https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master_720.m3u8
 #https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720.m3u8
-
-#EXTINF:-1, News24
-https://fallbackcdn.vidgyor.com/news24-origin/live_360p_fallback/chunks.m3u8
-#https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-name="News18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" tvg-id="News18India.in", News18 India
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
@@ -41,7 +38,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #http://pi.piyushgarg.in:8080/remote?channel=tv9bharatvarshzee5
 
 #EXTINF:-1, NewsX
-https://indianews.ottlive.co.in/newsx/newsx/index.fmp4.m3u8
+https://newsxott.in/hls/newsx.m3u8
+#https://indianews.ottlive.co.in/newsx/newsx/index.fmp4.m3u8
 #https://livetv.newsx.com/itv/itvnetwork4/playlist.m3u8
 
 #EXTINF:-1, Times Now
@@ -64,7 +62,8 @@ https://nw18live.cdn.jio.com/bpk-tv/Firstpost_NW18_MOB/output01/Firstpost_NW18_M
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1, EuroNews
-http://pi.piyushgarg.in:8080/remote?channel=euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/f256fbc0-0adc-4acd-95ab-1e845397e918/5.m3u8
+#http://pi.piyushgarg.in:8080/remote?channel=euronews
 
 #EXTINF:-1, NDTV Profit
 https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
@@ -100,3 +99,8 @@ https://hls.media.nic.in/live/lstv/index.m3u8
 
 #EXTINF:-1 tvg-name="Rajya Sabha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rajyasabha.svg/302px-Rajyasabha.svg.png" tvg-id="sansadtv.nic.in", Rajya Sabha
 https://hls.media.nic.in/live/rstv/index.m3u8
+
+#EXTINF:-1, News24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
+#https://fallbackcdn.vidgyor.com/news24-origin/live_360p_fallback/chunks.m3u8
+#https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
